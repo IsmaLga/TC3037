@@ -1,2 +1,1 @@
-"# TC3037" 
-Hi. Hey.
+Material del curso de Programación Avanzada del ITESM GDA. 
