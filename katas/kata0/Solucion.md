@@ -6,5 +6,5 @@ You may assume that each input would have exactly one solution, and you may not 
 Example:
 Given nums = [2, 7, 11, 15], target = 9,    Because nums[0] + nums[1] = 2 + 7 = 9,  return [0, 1].  
 
-![alt text](/000.jpg "Solución")
+![alt text](https://github.com/IsmaLga/TC3037/blob/master/katas/kata0/000.jpg "Solución")
 
