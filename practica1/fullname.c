@@ -22,8 +22,8 @@ int doFullName(char *firstName,
 
 int main()
 {
-    char firstName[] = "Miguel";
-    char lastName[] = "Palomera";
+    char firstName[] = "Ismael";
+    char lastName[] = "Lizarraga";
     char *fullName;
     doFullName(firstName, lastName, &fullName);
     printf("%s", fullName);
