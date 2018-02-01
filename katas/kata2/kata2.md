@@ -1,4 +1,4 @@
-#### Kata0
+#### Kata2
 ##### Ismael Lizárraga González
 
 ###### 420. Strong Password Checker
