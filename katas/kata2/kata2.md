@@ -11,5 +11,6 @@ Write a function strongPasswordChecker(s), that takes a string s as input, and r
 
 Insertion, deletion or replace of any one character are all considered as one change.  
 
-![alt text](https://github.com/IsmaLga/TC3037/blob/master/katas/kata0/000.jpg "Solución")
+![alt text](https://github.com/IsmaLga/TC3037/blob/master/katas/kata2/kata2.jpg "Solución")
 
+![alt text](https://github.com/IsmaLga/TC3037/blob/master/katas/kata2/kata2-1.jpg "Solución")
