@@ -24,12 +24,12 @@ Since we need to determine if the robot is in its starting point we need to setu
 
 So if the robot makes a circle, the value of position should be equal to 0. We return true if positions ends up with value 0, false otherwise. 
 
-Proof 1: 
-Input: UD
-Position = 1 - 1 = 0
-Return true. 
+Proof 1: <br>
+Input: UD <br>
+Position = 1 - 1 = 0 <br>
+Return true. <br> 
 
-Proof 2: 
-Input: LL
-Position = - 10 - 10 = -20 
-Return false. 
+Proof 2: <br>
+Input: LL <br>
+Position = - 10 - 10 = -20 <br>
+Return false. <br> 
