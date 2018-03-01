@@ -1,4 +1,4 @@
-#65. Valid Number
+# 65. Valid Number
 
 ### Validate if a given string is numeric.
 
@@ -21,7 +21,9 @@ Note: It is intended for the problem statement to be ambiguous. You should gathe
 ### My Solution 
 * When thinking about the solution I came up with state machines that I have reviewed in my previous courses of Electronics and Computational Math. 
 * I should have 'states' for managing the String given as input. There should be states for when the number starts with a sign, number, a decimal point, or an exponential function. After that, states for every case should be built. I propose a state machine as follows: 
-*** INSERT IMAGE *** 
+
+![alt text](https://github.com/IsmaLga/TC3037/blob/master/katas/kata4/IMG_2409.JPG?raw=true)
+
 * * A state for when the number starts with e. 
 * *  A state for when the number starts with sign + or -.
 * *  A state for when the number starts with 0
