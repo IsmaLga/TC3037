@@ -13,4 +13,4 @@ Don't make your users watch the same movie twice
 Optimize for runtime over memory
 
 ### My Solution 
-What I did to solve this program is iterating trough the array in a way that you get to compare the sum of ALL numbers. For this I compare each element with the followings elements in the array. If I find that the lenght of two movies is equal to the flight time I return true. A picture of my notes is in the following link: https://photos.app.goo.gl/nKXKuBXytLUECNcH3 . 
+What I did to solve this program is iterating trough the array in a way that you get to compare the sum of ALL numbers. For this I compare each element with the followings elements in the array. If I find that the lenght of two movies is equal to the flight time I return true. A picture of my notes is in the following link: https://photos.app.goo.gl/nKXKuBXytLUECNcH3. 
